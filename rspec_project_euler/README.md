@@ -1,6 +1,6 @@
-#RSpec Project Euler
+# RSpec Project Euler
 
-###Installation instructions
+### Installation instructions
 
 In order to run the specific test files for each problem, make sure you are in the specific folder and then run "rspec" on the terminal
 
@@ -9,7 +9,7 @@ In order to run the specific test files for each problem, make sure you are in t
      > cd problem_1
      > rspec
      
-###Task
+### Task
 
 The task was to solve the first two problems from Project Euler (Multiples of 3 and Even Fibonacci numbers) By using a TDD (Test Driven Development) approach with Ruby.
 
